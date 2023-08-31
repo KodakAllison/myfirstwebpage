@@ -1,0 +1,12 @@
+img {
+    width: 100px;
+    border-radius: 80px;
+  }
+  html {
+    font-style: calc(6);
+    font-size: 15px
+  }
+  body {
+    background-color: black;
+    color: whitesmoke;
+  }
